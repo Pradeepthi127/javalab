@@ -1,0 +1,10 @@
+import java.util.*;
+class add{
+        public static void main(String []args){
+                scanner sc=new scanner(system.in);
+                system.out.println("enter the values of a and b:");
+                int a=sc.nextint();
+                int b=sc.nextint();
+                System.out.println("Addition of"+a+"+"+b+"is"+(a+b));
+        }
+}
